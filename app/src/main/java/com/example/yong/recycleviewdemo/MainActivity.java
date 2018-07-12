@@ -17,6 +17,10 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
+/**
+ * @author:song
+ * @time:2018年7月12日21:40:19
+ */
 public class MainActivity extends AppCompatActivity {
     private RecyclerView mRecyclerView;
     private SwipeRefreshLayout mSwipeRefreshLayout;
